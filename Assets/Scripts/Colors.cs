@@ -1,0 +1,24 @@
+public enum Colors
+{
+	aqua,
+	black,
+	blue,
+	brown,
+	cyan,
+	darkblue,
+	fuchsia,
+	green,
+	grey,
+	lightblue,
+	lime,
+	magenta,
+	maroon,
+	navy,
+	olive,
+	purple,
+	red,
+	silver,
+	teal,
+	white,
+	yellow
+}

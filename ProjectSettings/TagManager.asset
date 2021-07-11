@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Decoration
+  - BUTTON
+  - NativeAd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DecorationTransform
+  - Decoration
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "BG"
+    uniqueID: 249502699
+    locked: 0
+  - name: "ITEMI"
+    uniqueID: 207209503
+    locked: 0
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "HINT"
+    uniqueID: 3495283471
+    locked: 0
+  - name: "UI"
+    uniqueID: 2314205663
+    locked: 0
+  - name: "CLEAN"
+    uniqueID: 4215223839
+    locked: 0
+  - name: "MOVE"
+    uniqueID: 227071751
+    locked: 0
+  - name: "TOOL"
+    uniqueID: 1240073825
+    locked: 0

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 0549ab54adefe6645a0ada2433b80088
+  - enabled: 1
+    path: Assets/Scenes/TransitionScene.unity
+    guid: 42cfa5e57c0553f46b38a35d2404599c
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: eb593ebc2e9a5c5429492108081480fb
+  - enabled: 1
+    path: Assets/Scenes/CupDecoration.unity
+    guid: 25f9d885e899f934cad2612b3aad481d
+  - enabled: 1
+    path: Assets/Scenes/SelectFlavor.unity
+    guid: 0a3fe8e3383e3a14aaf788342bde0204
+  - enabled: 1
+    path: Assets/Scenes/MakeIce.unity
+    guid: b8e576a678a6683488294d49cd1548ac
+  - enabled: 1
+    path: Assets/Scenes/CutFruit.unity
+    guid: ddc81bff9169f33469f5e79050d37fea
+  - enabled: 1
+    path: Assets/Scenes/MixSlush.unity
+    guid: 1019afb01b20c89408f241dcdf3b377c
+  - enabled: 1
+    path: Assets/Scenes/SlushDecoration.unity
+    guid: 83f398dee81247c40815f20d07dd59bd
+  - enabled: 1
+    path: Assets/Scenes/DrinkSlush.unity
+    guid: 71adbd9a59eee104082c8da7be950aa5
